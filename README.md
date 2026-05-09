@@ -17,3 +17,4 @@
 - `start`: Inicia apenas a parte frontend da aplicação em modo de desenvolvimento.
 - `start:server`: Inicia apenas a parte backend da aplicação em modo de desenvolvimento.
 - `start:dev`: Inicia simultaneamente a parte frontend e backend da aplicação em modo de desenvolvimento.
+- `test`: Executa os testes do projeto.
